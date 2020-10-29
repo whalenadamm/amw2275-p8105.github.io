@@ -2,6 +2,7 @@
 title: "My awesome website"
 output: 
   html_document:
+    code_folding: hide
     toc: true
     toc_float: true
 ---
@@ -36,4 +37,19 @@ Nothing but respect for MY avatar!
 ## Link to page within site
 
 [About me](about.html)
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+Tiny Boop Squigg Shorterly
+
+### By Region
+
+Paul Bufano! Duh Paul Bufano!
+
+## This is a new section
+
+And it's ... fine. It's no Roy Donc.
+
 
